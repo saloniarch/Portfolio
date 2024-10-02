@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salon\\MvcMovie\\MvcMovie.csproj": {}
+    "c:\\Users\\salon\\Desktop\\GitHub\\Portfolio\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salon\\MvcMovie\\MvcMovie.csproj": {
+    "c:\\Users\\salon\\Desktop\\GitHub\\Portfolio\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salon\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "c:\\Users\\salon\\Desktop\\GitHub\\Portfolio\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\salon\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "c:\\Users\\salon\\Desktop\\GitHub\\Portfolio\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\salon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salon\\MvcMovie\\obj\\",
+        "outputPath": "c:\\Users\\salon\\Desktop\\GitHub\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\salon\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
