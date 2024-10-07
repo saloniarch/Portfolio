@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\salon\\Desktop\\GitHub\\Portfolio\\MvcMovie.csproj": {}
+    "C:\\Users\\salon\\Documents\\VSCode\\Portfolio\\Portfolio\\MvcMovie.csproj": {}
   },
   "projects": {
-    "c:\\Users\\salon\\Desktop\\GitHub\\Portfolio\\MvcMovie.csproj": {
+    "C:\\Users\\salon\\Documents\\VSCode\\Portfolio\\Portfolio\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\salon\\Desktop\\GitHub\\Portfolio\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\salon\\Documents\\VSCode\\Portfolio\\Portfolio\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "c:\\Users\\salon\\Desktop\\GitHub\\Portfolio\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\salon\\Documents\\VSCode\\Portfolio\\Portfolio\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\salon\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\salon\\Desktop\\GitHub\\Portfolio\\obj\\",
+        "outputPath": "C:\\Users\\salon\\Documents\\VSCode\\Portfolio\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\salon\\AppData\\Roaming\\NuGet\\NuGet.Config"
